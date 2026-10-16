@@ -1,11 +1,11 @@
 <!-- GitHub profile README for github.com/acoci0 -->
 
 <div align="center">
-  <img src="./assets/header.gif" width="100%" alt="Abdussamed Coci — Backend Software Developer" />
+  <img src="./assets/header.gif" width="100%" alt="Abdussamed Coci — Full Stack Software Developer" />
   <br/>
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=20&amp;duration=3400&amp;pause=1200&amp;color=5EEAD4&amp;center=true&amp;vCenter=true&amp;width=760&amp;height=54&amp;lines=Backend+APIs+with+C%23+and+.NET;Go+%7C+PostgreSQL+%7C+REST+APIs;Building+maintainable+software;Currently+building+NotMarket"
-    alt="Animated developer focus: Backend APIs, Go, PostgreSQL, and NotMarket"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=20&amp;duration=3400&amp;pause=1200&amp;color=5EEAD4&amp;center=true&amp;vCenter=true&amp;width=760&amp;height=54&amp;lines=Full+Stack+Software+Developer;React+%2B+TypeScript+%7C+C%23+%2F+.NET;Building+Web+Apps+from+UI+to+API;PostgreSQL+%7C+SQL+%7C+Go"
+    alt="Animated developer focus: Full Stack Development, React, TypeScript, C#/.NET, PostgreSQL and Go"
   />
   <br/>
 </div>
@@ -13,23 +13,25 @@
 <!-- ───────────────────── PROFILE OVERVIEW ───────────────────── -->
 <table>
   <tr>
-    <td width="65%" valign="top">
-      <sub><b>BACKEND ENGINEERING / ISTANBUL, TÜRKİYE</b></sub>
-      <h3>Building what powers the product.</h3>
-      <p>Building reliable <b>REST APIs</b> with <b>C# / .NET</b> and <b>PostgreSQL</b>, while expanding my backend toolkit with <b>Go</b>.</p>
-      <p><a href="#featured-project"><b>Explore featured work ↗</b></a> &nbsp; · &nbsp; <a href="https://github.com/acoci0?tab=repositories">All repositories →</a></p>
+    <td width="62%" valign="top">
+      <sub><b>FULL STACK SOFTWARE DEVELOPER / ISTANBUL, TÜRKİYE</b></sub>
+      <h3>From interface to API.</h3>
+      <p>I build web applications across the <b>frontend</b>, <b>backend</b>, and <b>database</b> layers using React, TypeScript, C#/.NET, and PostgreSQL.</p>
+      <p><a href="#selected-projects"><b>Explore my projects ↗</b></a> &nbsp; · &nbsp; <a href="https://github.com/acoci0?tab=repositories">All repositories →</a></p>
     </td>
-    <td width="35%" valign="top">
-      <sub><b>CURRENTLY BUILDING</b></sub>
-      <h3><a href="https://github.com/acoci0/NoteMark">NotMarket ↗</a></h3>
-      <p>Student notes marketplace<br/>Backend API &amp; admin platform</p>
-      <sub><code>ASP.NET Core</code> <code>PostgreSQL</code></sub>
+    <td width="38%" valign="top">
+      <sub><b>WHAT I WORK WITH</b></sub>
+      <h3>Development Stack</h3>
+      <p><b>Frontend</b> &nbsp; React · TypeScript<br/>
+      <b>Backend</b> &nbsp; C# · ASP.NET Core<br/>
+      <b>Database</b> &nbsp; PostgreSQL · SQL</p>
+      <p><a href="#tech-stack">See my tech stack ↗</a></p>
     </td>
   </tr>
 </table>
 
 <div align="center">
-  <sub><b>EXPLORE</b> &nbsp; / &nbsp; <a href="#featured-project">Featured project</a> &nbsp; · &nbsp; <a href="#selected-projects">Projects</a> &nbsp; · &nbsp; <a href="#engineering-workflow">Workflow</a> &nbsp; · &nbsp; <a href="#tech-stack">Tech stack</a> &nbsp; · &nbsp; <a href="#github-activity">Activity</a></sub>
+  <sub><b>EXPLORE</b> &nbsp; / &nbsp; <a href="#featured-project">Featured project</a> &nbsp; · &nbsp; <a href="#selected-projects">Projects</a> &nbsp; · &nbsp; <a href="#development-workflow">Workflow</a> &nbsp; · &nbsp; <a href="#tech-stack">Tech stack</a> &nbsp; · &nbsp; <a href="#github-activity">Activity</a></sub>
 </div>
 
 <!-- ─────────────────── END PROFILE OVERVIEW ─────────────────── -->
@@ -49,7 +51,7 @@
         and content moderation.
       </p>
       <p>
-        <b>Engineering highlights</b><br/>
+        <b>Development highlights</b><br/>
         REST API development · JWT-based authentication and authorization ·
         PostgreSQL / Entity Framework Core · React + TypeScript administration panel
       </p>
@@ -63,10 +65,10 @@
   </tr>
 </table>
 
-## Engineering Workflow
+## Development Workflow
 
 <div align="center">
-  <img src="./assets/terminal.gif" width="100%" alt="Animated illustration of a backend developer terminal showing dotnet build, dotnet test, and git status commands." />
+  <img src="./assets/terminal.gif" width="100%" alt="Animated illustration of a full stack software developer terminal showing npm run build, dotnet build, and git status commands." />
   <br/>
   <sub>Illustrative terminal animation · Not a live build or test result.</sub>
 </div>
@@ -102,7 +104,7 @@
     </td>
     <td width="50%" valign="top">
       <h3>Currently Exploring</h3>
-      <p>Extending my backend engineering toolkit with Go, improving API design practices, and refining database-backed application architecture.</p>
+      <p>Expanding my software development skills with Go, improving REST API design, and refining web applications powered by relational databases.</p>
       <sub><code>Go</code> <code>REST APIs</code> <code>SQL</code> <code>Software Architecture</code></sub>
     </td>
   </tr>
@@ -114,9 +116,9 @@
 var developer = new
 {
     Name = "Abdussamed Coci",
-    Role = "Backend Software Developer",
+    Role = "Full Stack Software Developer",
     Location = "Istanbul, Türkiye",
-    Focus = new[] { "ASP.NET Core", "REST APIs", "SQL", "Go" },
+    Focus = new[] { "React", "TypeScript", "ASP.NET Core", "PostgreSQL" },
     Mindset = "Learn continuously. Build deliberately. Improve consistently."
 };
 ```
@@ -125,12 +127,11 @@ I have an academic background in **Mathematics at Marmara University** and compl
 **.NET software development program at BilgeAdam Academy**. My work combines analytical
 problem-solving with hands-on experience building backend services and web applications.
 
-I'm particularly interested in **API development, authentication, relational data modeling,
-and turning product requirements into maintainable software**.
+I enjoy building **responsive user interfaces, REST APIs, authentication systems, and relational database-backed applications**. I'm also continuing to learn **Go**.
 
 ## Tech Stack
 
-**Backend & Languages**
+**Languages & Backend**
 
 <p>
   <img src="https://skillicons.dev/icons?i=cs,dotnet,go,python,ts,js&theme=dark" alt="C#, .NET, Go, Python, TypeScript and JavaScript" />
@@ -160,7 +161,7 @@ and turning product requirements into maintainable software**.
 ---
 
 <div align="center">
-  <strong>Interested in backend engineering, useful products, and collaborative development.</strong>
+  <strong>Interested in full stack development, useful products, and collaborative software projects.</strong>
   <br/><br/>
   <a href="https://github.com/acoci0"><img src="https://img.shields.io/badge/Connect%20on-GitHub-24292F?style=for-the-badge&logo=github&logoColor=white" alt="Connect on GitHub" /></a>
   <br/><br/>
