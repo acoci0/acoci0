@@ -1,93 +1,200 @@
-<!-- GitHub profile README | Abdussamed Coci | Full Stack Software Developer -->
+<!-- Professional GitHub Profile • Abdussamed Coci • Full Stack Software Developer -->
 
 <div align="center">
-  <img src="./assets/hero.gif" width="100%" alt="Abdussamed Coci — Full Stack Software Developer. Animated illustration of interface, services and database layers." />
+  <img src="./assets/hero.gif" width="100%" alt="Animated portfolio banner — Abdussamed Coci, Full Stack Software Developer. Interface, API and database layers." />
+  <br/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=20&amp;duration=3700&amp;pause=1200&amp;color=67E2EC&amp;center=true&amp;vCenter=true&amp;width=750&amp;height=52&amp;lines=Frontend+%2B+Backend+%2B+Database;React+%26+TypeScript+%7C+ASP.NET+Core;C%23+%7C+Python+%7C+Go+%7C+SQL;Building+NotMarket+%26+real-world+projects" alt="Animated text showing frontend, backend and database technologies" />
+  <br/>
+  <a href="#featured-project">Featured work</a> &nbsp; • &nbsp;
+  <a href="#projects">Projects</a> &nbsp; • &nbsp;
+  <a href="#technology-stack">Tech stack</a> &nbsp; • &nbsp;
+  <a href="#github-activity">GitHub activity</a> &nbsp; • &nbsp;
+  <a href="#about-me">About</a>
 </div>
-
-<br/>
-
-<table>
-  <tr>
-    <td width="68%" valign="top">
-      <h3>Building software from interface to database.</h3>
-      <p>I'm <b>Abdussamed Coci</b>, a full stack software developer based in Istanbul. I build web applications with <b>React, TypeScript, C#/.NET</b> and <b>PostgreSQL</b>, with a focus on practical features and maintainable code.</p>
-      <p><a href="#selected-work"><b>View selected work ↗</b></a> &nbsp; · &nbsp; <a href="https://github.com/acoci0?tab=repositories">All repositories ↗</a></p>
-    </td>
-    <td width="32%" valign="top">
-      <h4>Current focus</h4>
-      <p><b>Building</b><br/><a href="https://github.com/acoci0/NoteMark">NotMarket</a> · Student notes platform</p>
-      <p><b>Exploring</b><br/>Go · API design · SQL</p>
-    </td>
-  </tr>
-</table>
-
-<p align="center"><sub><a href="#selected-work">SELECTED WORK</a> &nbsp; / &nbsp; <a href="#technology-stack">TECH STACK</a> &nbsp; / &nbsp; <a href="#background">BACKGROUND</a> &nbsp; / &nbsp; <a href="#connect">CONNECT</a></sub></p>
 
 ---
 
-## Selected Work
+<table>
+<tr>
+<td width="63%" valign="top">
 
-### NotMarket <sub>· Featured project · In development</sub>
+### Hello, I'm Abdussamed.
 
-A university-focused notes marketplace. The repository currently includes an **ASP.NET Core API** and a **React + TypeScript administration panel** for user management, student verification, and note moderation.
+A **Full Stack Software Developer** based in **Istanbul, Türkiye**, building web applications across the interface, business-logic, and database layers. I work primarily with **React, TypeScript, C#/.NET and PostgreSQL**, and develop Python utilities while expanding my Go skills.
 
-<img src="./assets/notmarket-architecture.png" width="100%" alt="Conceptual NotMarket architecture: React and TypeScript frontend, ASP.NET Core API, PostgreSQL database." />
+I enjoy taking a product idea from its first screen to its data model and API.
 
-**What I've been working on:** authentication and role-based access, database models, and administration workflows. The product is still being developed.
+[**Explore my repositories ↗**](https://github.com/acoci0?tab=repositories)
 
-[**Explore NotMarket source →**](https://github.com/acoci0/NoteMark)
+</td>
+<td width="37%" valign="top">
 
-### More Projects
+### What I'm working on
+
+**Building:** [NotMarket](https://github.com/acoci0/NoteMark) — student notes marketplace, currently in development.
+
+**Focus:** End-to-end web applications, authentication, REST APIs, relational databases.
+
+**Learning:** Go and deeper backend practices.
+
+</td>
+</tr>
+</table>
+
+## Featured Project
 
 <table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/acoci0/menu-snakeminigame">Yemekli Yılan ↗</a></h3>
-      <p>Mobile-first browser snake game with user accounts and score tracking.</p>
-      <sub><code>ASP.NET Core</code> &nbsp; <code>JavaScript</code> &nbsp; <code>SQLite</code></sub>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/acoci0/TNC-Python">Python Task Manager ↗</a></h3>
-      <p>Command-line task management tool with priorities, deadlines, and JSON storage.</p>
-      <sub><code>Python</code> &nbsp; <code>CLI</code> &nbsp; <code>JSON</code></sub>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" valign="top">
-      <h3><a href="https://github.com/acoci0/PDF_converter">Text-to-PDF Converter ↗</a></h3>
-      <p>A lightweight Python utility that generates PDF files using FPDF and Unicode fonts.</p>
-      <sub><code>Python</code> &nbsp; <code>FPDF</code></sub>
-    </td>
-  </tr>
+<tr>
+<td width="66%" valign="top">
+
+### [NotMarket — Student Notes Marketplace](https://github.com/acoci0/NoteMark)
+
+**In development** · Full stack application
+
+University-focused notes marketplace. The current repository contains an **ASP.NET Core 10 API** and an **administration panel with React 19 + TypeScript**, including student verification, user management and note moderation.
+
+**Development areas:** JWT authentication, role-based authorization, REST endpoints, Entity Framework Core, PostgreSQL and frontend administration workflows.
+
+[**View repository and source code →**](https://github.com/acoci0/NoteMark)
+
+</td>
+<td width="34%" align="center" valign="middle">
+
+<img src="https://skillicons.dev/icons?i=dotnet,react,ts,postgres&amp;theme=dark&amp;perline=2" width="166" alt="NotMarket technologies: ASP.NET Core, React, TypeScript, PostgreSQL" />
+
+**C# / .NET** · **React** · **PostgreSQL**
+
+</td>
+</tr>
+</table>
+
+### From idea to application
+
+<div align="center">
+  <img src="./assets/workflow.gif" width="100%" alt="Animated conceptual frontend → REST API → database → cloud deployment pipeline" />
+  <br/>
+  <sub>Illustrative full stack architecture — conceptual animation, not live system telemetry or test results.</sub>
+</div>
+
+## Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### [Yemekli Yılan ↗](https://github.com/acoci0/menu-snakeminigame)
+
+Mobile-friendly browser snake game with user accounts and score tracking, developed as a restaurant-menu experience.
+
+`C#` `ASP.NET Core` `JavaScript` `SQLite`
+
+</td>
+<td width="50%" valign="top">
+
+### [Python Task Manager ↗](https://github.com/acoci0/TNC-Python)
+
+Console-based task management with priorities, deadlines, status tracking and persistent JSON storage.
+
+`Python` `JSON` `CLI`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### [Text-to-PDF Converter ↗](https://github.com/acoci0/PDF_converter)
+
+Small Python utility that generates Unicode-compatible PDF documents using FPDF.
+
+`Python` `FPDF` `PDF`
+
+</td>
+<td width="50%" valign="top">
+
+### Currently Exploring
+
+Expanding my skills with **Go**, improving API design, and developing complete workflows from frontend components to data persistence.
+
+`Go (learning)` `REST APIs` `SQL`
+
+</td>
+</tr>
 </table>
 
 ## Technology Stack
 
-<table>
-  <tr>
-    <td width="33%" valign="top">
-      <h4>01 / Frontend</h4>
-      React<br/>TypeScript / JavaScript<br/>HTML / CSS
-    </td>
-    <td width="34%" valign="top">
-      <h4>02 / Backend</h4>
-      C# / ASP.NET Core<br/>REST APIs<br/>Python · Go (learning)
-    </td>
-    <td width="33%" valign="top">
-      <h4>03 / Data &amp; Tools</h4>
-      PostgreSQL / SQL<br/>Entity Framework Core<br/>Git · Docker · Azure
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <img src="./assets/technology-ecosystem.png" width="100%" alt="Technology ecosystem: C#, JavaScript, TypeScript, Python, Go, SQL, HTML5, CSS3, ASP.NET Core, React, Angular, Entity Framework Core, WordPress, REST, JWT, PostgreSQL, SQL Server, SQLite, VS Code, Git, GitHub, Docker, Azure App Service, Canva, AutoCAD, Microsoft Excel, Unity" />
+</div>
 
-## Background
+**Languages**
 
-I studied **Mathematics at Marmara University** and completed a software development program at **BilgeAdam Academy**. I enjoy translating real-world requirements into clear interfaces, useful APIs, and reliable data flows.
+<p>
+  <img src="https://skillicons.dev/icons?i=cs,js,ts,python,go,html,css&amp;theme=dark" alt="C#, JavaScript, TypeScript, Python, Go, HTML and CSS language icons" />
+  <img src="https://img.shields.io/badge/SQL-315A81?style=flat-square&amp;logo=postgresql&amp;logoColor=white" alt="SQL" />
+</p>
 
-My current priorities are strengthening my full stack development skills, improving API design, and contributing to software projects where code quality and teamwork matter.
+**Web Development & Frameworks**
 
-## Connect
+<p><img src="https://skillicons.dev/icons?i=dotnet,react,angular,wordpress&amp;theme=dark" alt="ASP.NET Core, React, Angular, and WordPress icons" /></p>
 
-Interested in working together or discussing a project? You can explore my [repositories](https://github.com/acoci0?tab=repositories) and reach me through my [GitHub profile](https://github.com/acoci0).
+ASP.NET Core · Entity Framework Core · React · Angular · WordPress · REST APIs · JWT authentication
 
-<sub>Abdussamed Coci · Full Stack Software Developer · Istanbul, Türkiye</sub>
+**Databases**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,sqlite&amp;theme=dark" alt="PostgreSQL and SQLite" />
+  <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=flat-square&amp;logo=microsoftsqlserver&amp;logoColor=white" alt="Microsoft SQL Server" />
+</p>
+
+PostgreSQL · Microsoft SQL Server · SQLite
+
+**Developer Tools & Cloud**
+
+<p><img src="https://skillicons.dev/icons?i=vscode,git,github,docker,azure&amp;theme=dark" alt="VS Code, Git, GitHub, Docker and Microsoft Azure" /></p>
+
+VS Code · Git · GitHub · Docker · Microsoft Azure / Azure App Service
+
+**Other Applications**
+
+<p>
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=flat-square&amp;logo=canva&amp;logoColor=white" alt="Canva" />
+  <img src="https://img.shields.io/badge/AutoCAD-CF3434?style=flat-square&amp;logo=autodesk&amp;logoColor=white" alt="AutoCAD" />
+  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=flat-square&amp;logo=microsoftexcel&amp;logoColor=white" alt="Microsoft Excel" />
+  <img src="https://img.shields.io/badge/Unity-Basic-333333?style=flat-square&amp;logo=unity&amp;logoColor=white" alt="Unity basic experience" />
+</p>
+
+<sub>Experience varies by tool. Currently building proficiency in Go; basic experience with Unity.</sub>
+
+## GitHub Activity
+
+<div align="center">
+  <a href="https://github.com/acoci0"><img src="https://github-readme-stats.vercel.app/api?username=acoci0&amp;show_icons=true&amp;hide_border=true&amp;theme=github_dark&amp;rank_icon=github&amp;bg_color=0D1117&amp;title_color=67E2EC&amp;icon_color=67E2EC&amp;text_color=C9D1D9" height="172" alt="Automatically refreshed GitHub statistics" /></a>
+  <a href="https://github.com/acoci0?tab=repositories"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=acoci0&amp;layout=compact&amp;langs_count=8&amp;hide_border=true&amp;theme=github_dark&amp;bg_color=0D1117&amp;title_color=67E2EC&amp;text_color=C9D1D9" height="172" alt="Languages by public GitHub repository code" /></a>
+</div>
+
+<div align="center">
+  <a href="https://github.com/acoci0?tab=overview"><img src="https://github-readme-activity-graph.vercel.app/graph?username=acoci0&amp;theme=github-compact&amp;hide_border=true&amp;area=true&amp;bg_color=0D1117&amp;color=B8C6D8&amp;line=67E2EC&amp;point=BAA7FF&amp;area_color=194961" width="98%" alt="GitHub contribution activity graph; fetched from an external stats provider" /></a>
+  <br/>
+  <sub>Stats are generated by external services and may be cached or temporarily unavailable. Language statistics reflect repository content, not proficiency.</sub>
+</div>
+
+## About Me
+
+I earned my degree in **Mathematics at Marmara University** and completed a **software development training program at BilgeAdam Academy**. My mathematics background supports my approach to debugging, data modeling and clear problem-solving.
+
+I enjoy developing software across the stack — from usable web interfaces to maintainable APIs and database-backed business features. I'm interested in real-world products and collaborative development.
+
+### Development principles
+
+`Understand the problem` &nbsp; → &nbsp; `Build the smallest useful solution` &nbsp; → &nbsp; `Test & improve`
+
+---
+
+<div align="center">
+  <b>Let's build useful software.</b>
+  <br/><br/>
+  <a href="https://github.com/acoci0?tab=repositories"><img src="https://img.shields.io/badge/Explore-My_Repositories-15283A?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Explore my repositories" /></a>
+  <br/><br/>
+  <sub>Abdussamed Coci · Full Stack Software Developer · Istanbul, Türkiye</sub>
+</div>
