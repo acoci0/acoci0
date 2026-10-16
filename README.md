@@ -8,17 +8,31 @@
     alt="Animated developer focus: Backend APIs, Go, PostgreSQL, and NotMarket"
   />
   <br/>
-  <a href="https://github.com/acoci0?tab=repositories"><img src="https://img.shields.io/badge/GitHub-Explore%20Projects-24292F?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" /></a>
-  <img src="https://komarev.com/ghpvc/?username=acoci0&style=for-the-badge&color=0e7490&label=PROFILE+VIEWS" alt="Profile views" />
 </div>
 
-<br/>
+<!-- ───────────────────── PROFILE OVERVIEW ───────────────────── -->
+<table>
+  <tr>
+    <td width="65%" valign="top">
+      <sub><b>BACKEND ENGINEERING / ISTANBUL, TÜRKİYE</b></sub>
+      <h3>Building what powers the product.</h3>
+      <p>Building reliable <b>REST APIs</b> with <b>C# / .NET</b> and <b>PostgreSQL</b>, while expanding my backend toolkit with <b>Go</b>.</p>
+      <p><a href="#featured-project"><b>Explore featured work ↗</b></a> &nbsp; · &nbsp; <a href="https://github.com/acoci0?tab=repositories">All repositories →</a></p>
+    </td>
+    <td width="35%" valign="top">
+      <sub><b>CURRENTLY BUILDING</b></sub>
+      <h3><a href="https://github.com/acoci0/NoteMark">NotMarket ↗</a></h3>
+      <p>Student notes marketplace<br/>Backend API &amp; admin platform</p>
+      <sub><code>ASP.NET Core</code> <code>PostgreSQL</code></sub>
+    </td>
+  </tr>
+</table>
 
 <div align="center">
-  <strong>Backend Development &nbsp;·&nbsp; API Design &nbsp;·&nbsp; Database-Driven Applications</strong>
-  <br/>
-  <sub>Building practical software with a focus on maintainability, reliability, and clear architecture.</sub>
+  <sub><b>EXPLORE</b> &nbsp; / &nbsp; <a href="#featured-project">Featured project</a> &nbsp; · &nbsp; <a href="#selected-projects">Projects</a> &nbsp; · &nbsp; <a href="#engineering-workflow">Workflow</a> &nbsp; · &nbsp; <a href="#tech-stack">Tech stack</a> &nbsp; · &nbsp; <a href="#github-activity">Activity</a></sub>
 </div>
+
+<!-- ─────────────────── END PROFILE OVERVIEW ─────────────────── -->
 
 ---
 
